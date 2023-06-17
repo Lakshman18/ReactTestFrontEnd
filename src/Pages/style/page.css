@@ -1,0 +1,52 @@
+.gridDiv{
+    width: 95%; 
+    margin-top: 20px; 
+    border: 1px solid grey; 
+    margin-left: auto; 
+    margin-right:auto;
+}
+
+.divHeader{
+    width:100%;
+    height:50px; 
+    background: #68bc44;
+}
+
+.divHeaderIcon{
+    color: #f7f7f7;
+    margin-top:15px; 
+    margin-left:25px;   
+    position:absolute;
+}
+
+.divHeaderTitle{
+    color: #f7f7f7;
+    margin-top:15px; 
+    margin-left:70px;   
+    position:absolute;
+}
+
+.divHeaderColapse{
+    color: #f7f7f7;
+    margin-top:15px; 
+    margin-left:97%;    
+}
+
+.FormStyle{
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+.FormButtonStyle{
+    margin-left: 10px; 
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.gridAllocationDiv{
+    width: 95%; 
+    margin-top: 20px; 
+    /* border: 1px solid grey;  */
+    margin-left: auto; 
+    margin-right:auto;
+}

@@ -1,0 +1,7 @@
+export * from './appState.models'
+export * from './ClassRoom.models'
+export * from './Subject.models'
+export * from './Teacher.models'
+export * from './Student.models'
+export * from './AllocateClassRoom.models'
+export * from './AllocateSubject.models'
